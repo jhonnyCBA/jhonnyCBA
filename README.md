@@ -49,7 +49,7 @@
 
 <div align="center">
   <h2>🌐 Vamos nos conectar! 🌐</h2>
-  <a href="https://instagram.com/silva_miranda12" target="_blank">
+  <a href="https://www.instagram.com/jhonny_silva122" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:jhonny53miranda2019@gmail.com" target="_blank">
