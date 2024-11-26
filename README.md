@@ -59,7 +59,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/54198227/123774602-4a70c180-d8b0-11eb-984b-e9e7b9e4b1e5.gif" alt="Coding Animation" width="300px">
-</div>
 
