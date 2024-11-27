@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👨‍💻 Jhonny Miranda da Silva 👨‍💻</h1>
-  <p><em>Desenvolvedor em constante evolução, apaixonado por tecnologia e inovação! 🚀</em></p>
+ <h3><p><em>Desenvolvedor em constante evolução, apaixonado por tecnologia e inovação! 🚀</em></p></h3>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>⚙️ Tecnologias que uso ⚙️</h2>
-  <p><em>Ferramentas que transformam ideias em soluções:</em></p>
+ <h3><p><em>Ferramentas que transformam ideias em soluções:</em></p></h3>
 <div style="display: inline-block;">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
