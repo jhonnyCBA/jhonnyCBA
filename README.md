@@ -15,34 +15,37 @@
 <div align="center">
   <h2>⚙️ Tecnologias que uso ⚙️</h2>
   <p><em>Ferramentas que transformam ideias em soluções:</em></p>
-  <div style="display: inline-block;">
-    <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  </div>
+<div style="display: inline-block;">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
 </div>
 
 ---
 
 <div align="center">
-  <h2>📚 Sobre Mim 📚</h2>
-  <ul>
-    <li>🌱 Atualmente aprendendo: <strong>Node.js</strong> e <strong>Java</strong>.</li>
-    <li>🎓 Estudando: <strong>Análise e Desenvolvimento de Sistemas</strong>.</li>
-    <li>🤖 Trabalho com: <strong>Automação de máquinas agrícolas usando C#</strong>.</li>
-    <li>🗄️ Já fui Analista de Banco de Dados com experiência em <strong>Oracle</strong>, <strong>PostgreSQL</strong> e <strong>MySQL (WorkBench)</strong>.</li>
-    <li>💡 Curiosidade: Tenho paixão por resolver problemas complexos e criar soluções inteligentes! 🤓</li>
-  </ul>
+<h2>📚 Sobre Mim 📚</h2>
+<ul>
+  <li>🌱 Atualmente aprendendo: <strong>Node.js</strong> e <strong>PHP</strong>.</li>
+  <li>🎓 Estudando: <strong>Análise e Desenvolvimento de Sistemas</strong>.</li>
+  <li>☕ Já trabalhei com: <strong>Java para aplicações web utilizando o framework Spring Boot</strong>.</li>
+  <li>🤖 Trabalho com: <strong>Automação de máquinas agrícolas usando C#</strong>.</li>
+  <li>🗄️ Já fui Analista de Banco de Dados com experiência em <strong>Oracle</strong>, <strong>PostgreSQL</strong> e <strong>MySQL (WorkBench)</strong>.</li>
+  <li>💡 Curiosidade: Tenho paixão por resolver problemas complexos e criar soluções inteligentes! 🤓</li>
+</ul>
+
 </div>
 
 ---
