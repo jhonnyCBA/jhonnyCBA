@@ -35,18 +35,27 @@
 
 ---
 
-<div align="center">
-<h2>📚 Sobre Mim 📚</h2>
-<ul>
-  <li>🌱 Atualmente aprendendo: <strong>Node.js</strong> e <strong>PHP</strong>.</li>
-  <li>🎓 Estudando: <strong>Análise e Desenvolvimento de Sistemas</strong>.</li>
-  <li>☕ Já trabalhei com: <strong>Java para aplicações web utilizando o framework Spring Boot</strong>.</li>
-  <li>🤖 Trabalho com: <strong>Automação de máquinas agrícolas usando C#</strong>.</li>
-  <li>🗄️ Já fui Analista de Banco de Dados com experiência em <strong>Oracle</strong>, <strong>PostgreSQL</strong> e <strong>MySQL (WorkBench)</strong>.</li>
-  <li>💡 Curiosidade: Tenho paixão por resolver problemas complexos e criar soluções inteligentes! 🤓</li>
-</ul>
+# 🚀 Sobre Mim
 
-</div>
+Sou um profissional dedicado e apaixonado por tecnologia, com experiência sólida em desenvolvimento, automação e gestão de bancos de dados. Atualmente, focado em expandir meus conhecimentos em **Node.js** e **PHP**, enquanto me aprofundo na graduação em **Análise e Desenvolvimento de Sistemas**.
+
+---
+
+### Minhas Experiências e Habilidades
+
+- 💻 Desenvolvimento backend com **Java** e o framework **Spring Boot** para aplicações web robustas e escaláveis.
+- 🤖 Automação de máquinas agrícolas utilizando **C#**, transformando processos manuais em soluções inteligentes.
+- 🗄️ Experiência como Analista de Banco de Dados, atuando com **Oracle**, **PostgreSQL** e **MySQL (Workbench)**.
+- 🌱 Em constante aprendizado, buscando sempre aprimorar técnicas e explorar novas tecnologias.
+
+---
+
+### Minha Paixão
+
+Criar soluções que fazem a diferença, resolver problemas complexos com lógica e criatividade, e colaborar para construir um futuro tecnológico inovador.  
+
+Se quiser trocar uma ideia ou colaborar em projetos, fique à vontade para me chamar! 👋
+
 
 ---
 
