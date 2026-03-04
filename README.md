@@ -59,7 +59,7 @@ Busco sempre evoluir tecnicamente e contribuir com soluções que otimizem proce
 
 ## 🎓 Formação Acadêmica
 
-- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** — Em andamento  
+- 🎓 **Formado em Análise e Desenvolvimento de Sistemas** 
   *Foco em Engenharia de Software, Banco de Dados e Desenvolvimento Web.*
 
 ---
